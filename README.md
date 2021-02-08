@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br />
 
-- 🔭 I’m currently working on an <img alt="careerfoundry.com" height="15px" width="15px" src="https://careerfoundry.com/favicon.ico" /> [website]
+- 🔭 I’m currently working on an <img alt="careerfoundry.com" height="15px" width="15px" src="https://careerfoundry.com/favicon.ico" />
   [careerfoundry] company.
 - 🌱 I’m currently learning the new things of the web-development.
 - 👯 I’m looking to collaborate with other content creators
