@@ -59,6 +59,7 @@ Here are some ideas to get you started:
     <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
     <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
     <img align="left" alt="PHP" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/php-128.png" />
+    <img align="left" alt="Wordpress" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/wordpress-128.png" />
     <img align="left" alt="Magento" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/204_Magento_logo_logos-128.png" />
     <img align="left" alt="API" width="26px" src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-api-128.png" />
 </div>
